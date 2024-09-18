@@ -17,7 +17,6 @@ plt.ylabel('sin(x)')
 plt.grid(True)  # Adds gridlines
 plt.show()
 
-# i don't know what is happening
 #################
 # Now I want to plot a cos function:
 y_cos = np.cos(x)
