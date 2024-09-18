@@ -16,3 +16,5 @@ plt.ylabel('sin(x)')
 # Show the plot
 plt.grid(True)  # Adds gridlines
 plt.show()
+
+# i don't know what is happening
